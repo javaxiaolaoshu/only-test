@@ -5,6 +5,11 @@
 特色、亮点、差异化
 
 ## 安装下载
+- [下载地址](https://github.com/javaxiaolaoshu/only-test/releases)
+npm安装:
+`npm i only-test`
+CDN安装：http://unpkg.com/only-test/release/bundle.js
+
 
 ## 快速使用
 

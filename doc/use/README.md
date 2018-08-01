@@ -13,5 +13,10 @@ cache.set('a',100);
 ## 获取
 
 ```js
-cache.get('a')
+cache.get('a');
+```
+## 使用
+
+```js
+cache.clear();
 ```
