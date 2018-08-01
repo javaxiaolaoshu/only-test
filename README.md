@@ -10,9 +10,9 @@
 
 快速接入的文档
 
-- 使用文档
+- [使用文档](./doc/use/README.md)
 
-- 二次开发文档
+- [二次开发文档](./doc/dev/README.md)
 
 ## 交流提问
 - [issues](https://github.com/javaxiaolaoshu/only-test/issues)
